@@ -1,0 +1,11 @@
+## Interface: 11200
+## Title: ColoredWhoClasses |cff7fff7f -Ace2-|r
+## Notes: In the WhoFrame displays color classes
+## Notes-ruRU: В окне 'Кто' отображает цветные классы
+## Author: BalakinUser
+## Version: 1.1
+## eMail: balakinuser@gmail.com
+## OptionalDeps: Ace2, Babble-Class-2.2
+## Dependencites: !Libs
+
+ColoredWhoClasses.lua
